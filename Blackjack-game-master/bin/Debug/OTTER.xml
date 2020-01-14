@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OTTER</name>
+    </assembly>
+    <members>
+        <member name="F:OTTER.BGL.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:OTTER.BGL.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:OTTER.BGL.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:OTTER.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:OTTER.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:OTTER.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:OTTER.FormStrategy.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:OTTER.FormStrategy.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:OTTER.FormStrategy.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:OTTER.RedisStore">
+            <summary>
+            Describe your member here.
+            </summary>
+        </member>
+        <member name="M:OTTER.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="M:OTTER.Sprite.Clicked(System.Drawing.Point)">
+            <summary>
+            Provjerava je li lik kliknut. Za provjeru je potrebno poslati koordinate strelice miša. 
+            Koordinate (točka) miša se mogu dobiti iz "sensing".
+            </summary>
+            <param name="mousePoint">Koordinate strelice miša.</param>
+            <returns></returns>
+        </member>
+        <member name="F:OTTER.TestForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:OTTER.TestForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:OTTER.TestForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:OTTER.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:OTTER.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:OTTER.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:OTTER.Properties.Resources._100chip">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:OTTER.Properties.Resources._25chips">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:OTTER.Properties.Resources._50chips">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:OTTER.Properties.Resources._5chip">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:OTTER.Properties.Resources.blackjack_basic_strategy_card">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:OTTER.Properties.Resources.blackjack_table_related_keywords_suggestions_blackjack_table_long_duA9Z8_clipart">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:OTTER.Properties.Resources.dolar">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>

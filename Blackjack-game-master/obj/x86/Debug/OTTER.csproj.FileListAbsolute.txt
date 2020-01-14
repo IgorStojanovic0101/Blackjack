@@ -1,0 +1,398 @@
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\pozadine\plava.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\pozadine\siva.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\pozadine\zelena.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\cat.gif
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\OTTER.exe.config
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\OTTER.xml
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\OTTER.exe
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\OTTER.pdb
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\AxInterop.Microsoft.Office.Interop.Outlook.dll
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\obj\x86\Debug\AxInterop.Microsoft.Office.Interop.Outlook.dll
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\obj\x86\Debug\OTTER.csproj.ResolveComReference.cache
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\obj\x86\Debug\OTTER.BGL.resources
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\obj\x86\Debug\OTTER.FormGameOptions.resources
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\obj\x86\Debug\OTTER.FormStrategy.resources
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\obj\x86\Debug\OTTER.exe
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\obj\x86\Debug\OTTER.pdb
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\10\10C.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\10\10D.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\10\10H.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\10\10S.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\2\2C.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\2\2D.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\2\2H.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\2\2S.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\3\3C.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\3\3D.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\3\3H.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\3\3S.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\4\4C.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\4\4D.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\4\4H.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\4\4S.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\5\5C.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\5\5D.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\5\5H.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\5\5S.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\6\6C.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\6\6D.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\6\6H.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\6\6S.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\7\7C.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\7\7D.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\7\7H.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\7\7S.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\8\8C.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\8\8D.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\8\8H.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\8\8S.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\9\9C.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\9\9D.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\9\9H.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\9\9S.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\A\AC.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\A\AD.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\A\AH.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\A\AS.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\J\JC.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\J\JD.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\J\JH.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\J\JS.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\K\KC.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\K\KD.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\K\KH.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\K\KS.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\Q\QC.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\Q\QD.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\Q\QH.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\projekt 1\OTTER\bin\Debug\sprites\karte\karte(ID)\Q\QS.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\OTTER.exe.config
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\OTTER.xml
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\AxInterop.Microsoft.Office.Interop.Outlook.dll
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.csproj.ResolveComReference.cache
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.exe
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.pdb
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cat.gif
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\OTTER.exe
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\OTTER.pdb
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\AxInterop.Microsoft.Office.Interop.Outlook.dll
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.FormGameOptions.resources
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.FormStrategy.resources
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.TestForm.resources
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\Resources\blackjack-table.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\A\1.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\A\2.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\A\3.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\A\4.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\10\1.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\10\2.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\10\3.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\10\4.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\2\2.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\2\3.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\2\4.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\2\1.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\3\2.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\3\3.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\3\4.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\3\1.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\4\2.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\4\3.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\4\4.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\4\1.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\5\2.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\5\4.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\5\3.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\5\1.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\6\1.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\6\2.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\6\3.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\6\4.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\7\1.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\7\3.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\7\4.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\7\2.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\8\4.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\8\2.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\8\3.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\8\1.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\9\1.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\9\2.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\9\3.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\9\4.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\J\1.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\J\2.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\J\3.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\J\4.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\K\1.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\K\2.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\K\3.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\K\4.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\Q\1.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\Q\2.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\Q\3.png
+D:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\Q\4.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.csproj.ResolveComReference.cache
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.FormStrategy.resources
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.TestForm.resources
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.exe
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\OTTER.pdb
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\10\1.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\10\2.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\10\3.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\10\4.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\2\2.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\2\3.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\2\4.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\2\1.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\3\2.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\3\3.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\3\4.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\3\1.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\4\2.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\4\3.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\4\4.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\4\1.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\5\2.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\5\4.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\5\3.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\5\1.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\6\1.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\6\2.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\6\3.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\6\4.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\7\1.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\7\3.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\7\4.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\7\2.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\8\4.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\8\2.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\8\3.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\8\1.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\9\1.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\9\2.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\9\3.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\9\4.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\A\1.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\A\2.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\A\3.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\A\4.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\J\1.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\J\2.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\J\3.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\J\4.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\K\1.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\K\2.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\K\3.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\K\4.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\Q\1.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\Q\2.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\Q\3.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\cards2\Q\4.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\Resources\blackjack-table.png
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\OTTER.exe.config
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\OTTER.xml
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\OTTER.exe
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\OTTER.pdb
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\AxInterop.Microsoft.Office.Interop.Outlook.dll
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\obj\x86\Debug\AxInterop.Microsoft.Office.Interop.Outlook.dll
+E:\PODACI\Matematika i programiranje\3. godina\Objektno orijentirano programiranje\moj projekt\OTTER\bin\Debug\sprites\blue_back.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\blue_back.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\10\1.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\10\2.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\10\3.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\10\4.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\2\2.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\2\3.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\2\4.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\2\1.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\3\2.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\3\3.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\3\4.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\3\1.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\4\2.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\4\3.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\4\4.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\4\1.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\5\2.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\5\4.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\5\3.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\5\1.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\6\1.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\6\2.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\6\3.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\6\4.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\7\1.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\7\3.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\7\4.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\7\2.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\8\4.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\8\2.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\8\3.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\8\1.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\9\1.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\9\2.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\9\3.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\9\4.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\A\1.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\A\2.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\A\3.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\A\4.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\J\1.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\J\2.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\J\3.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\J\4.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\K\1.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\K\2.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\K\3.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\K\4.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\Q\1.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\Q\2.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\Q\3.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\sprites\cards2\Q\4.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\Resources\blackjack-table.png
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\OTTER.exe.config
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\OTTER.xml
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\OTTER.exe
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\OTTER.pdb
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\obj\x86\Debug\OTTER.csproj.ResolveComReference.cache
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\obj\x86\Debug\OTTER.BGL.resources
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\obj\x86\Debug\OTTER.FormStrategy.resources
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\obj\x86\Debug\OTTER.Properties.Resources.resources
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\obj\x86\Debug\OTTER.TestForm.resources
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\obj\x86\Debug\OTTER.exe
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\obj\x86\Debug\OTTER.pdb
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\Newtonsoft.Json.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\StackExchange.Redis.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\Newtonsoft.Json.xml
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\StackExchange.Redis.xml
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\obj\x86\Debug\OTTER.csproj.CopyComplete
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\netstandard.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.AppContext.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Collections.Concurrent.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Collections.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Collections.NonGeneric.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Collections.Specialized.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.ComponentModel.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Console.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Data.Common.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Diagnostics.Debug.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Diagnostics.Process.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Diagnostics.Tools.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Drawing.Primitives.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Dynamic.Runtime.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Globalization.Calendars.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Globalization.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Globalization.Extensions.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.IO.Compression.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.IO.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.IO.FileSystem.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.IO.Pipes.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Linq.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Linq.Expressions.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Linq.Parallel.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Linq.Queryable.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Net.Http.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Net.NameResolution.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Net.NetworkInformation.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Net.Ping.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Net.Primitives.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Net.Requests.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Net.Security.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Net.Sockets.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Net.WebSockets.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.ObjectModel.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Reflection.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Reflection.Extensions.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Reflection.Primitives.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Resources.Reader.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Resources.ResourceManager.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Resources.Writer.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Runtime.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Runtime.Extensions.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Runtime.Handles.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Runtime.InteropServices.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Runtime.Numerics.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Security.Claims.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Security.Principal.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Security.SecureString.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Text.Encoding.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Text.RegularExpressions.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Threading.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Threading.Overlapped.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Threading.Tasks.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Threading.Thread.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Threading.ThreadPool.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Threading.Timer.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.ValueTuple.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Xml.XDocument.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Xml.XmlDocument.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Xml.XPath.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Memory.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Memory.xml
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\Pipelines.Sockets.Unofficial.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\Pipelines.Sockets.Unofficial.xml
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.IO.Pipelines.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.IO.Pipelines.xml
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Buffers.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Buffers.xml
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Numerics.Vectors.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Threading.Channels.dll
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Numerics.Vectors.xml
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\bin\Debug\System.Threading.Channels.xml
+D:\Fakultet\Igor\VII\NB\Blackjack-game-master\obj\x86\Debug\BlackJack.Properties.Resources.resources
